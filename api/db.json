@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "my stream",
+      "id": 1
+    },
+    {
+      "title": "stream",
+      "description": "my stream",
+      "id": 2
+    },
+    {
+      "title": "drkavi strim",
+      "description": "ja sam kreirao",
+      "userId": "107827224476521948823",
+      "id": 3
+    }
+  ]
+}
